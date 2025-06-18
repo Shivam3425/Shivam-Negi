@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivam3425/Shivam-Negi/blob/main/cover%20shivam%20negi.png)
 <h1 align="center">Welcome to My GitHub Profile👋, I'm Shivam Negi</h1>
 <h3 align="center">Student of MBA Financial Analytics at Guru Gobind Singh Indraprastha University</h3>
 
