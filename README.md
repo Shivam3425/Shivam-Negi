@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to My GitHub Profile👋, I'm Shivam Negi</h1>
 <h3 align="center">Student of MBA Financial Analytics at Guru Gobind Singh Indraprastha University</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDa88WyRKzHKF0dynJVaz484ssY8ysn9Ga2g&s">
+<img align="right" alt="coding" width="400" src="https://78.media.tumblr.com/73694b8dd17867ce1797e9b9637a3ec7/tumblr_o3ngrjGhz11s2hovgo1_400.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam3425&label=Profile%20views&color=0e75b6&style=flat" alt="shivam3425" /> </p>
 
